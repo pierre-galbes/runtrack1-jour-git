@@ -1,0 +1,10 @@
+
+
+tbody tr:nth-child(odd) {
+    background-color: #aec4c4;
+  }
+  
+  
+  tbody tr:nth-child(even) {
+    background-color: #b6b57e;
+  }
